@@ -1,0 +1,8 @@
+const types = {
+  ADD_TASK: "ADD_TASK",
+  UPDATE_TASK: "UPDATE_TASK",
+  DELETE_TASK: "DELETE_TASK",
+  RETRIEVE_TASKS: "RETRIEVE_TASKS",
+  RETRIEVE_TASK_ID: "RETRIEVE_TASK_ID",
+};
+export default types;

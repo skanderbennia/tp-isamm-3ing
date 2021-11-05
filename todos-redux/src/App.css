@@ -1,0 +1,16 @@
+ .app {
+   width: 751px;
+   margin: 10px auto auto auto;
+   background: white;
+   height: 100vh;
+   padding: 10px;
+ }
+
+
+ body {
+   background-color: #ffa50059
+ }
+
+ button {
+   cursor: pointer;
+ }
